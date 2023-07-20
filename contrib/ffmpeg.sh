@@ -7,7 +7,7 @@ if [ ! -d "build" ] ; then
 fi
 cd build
 
-FFV="ffmpeg-1.0.7"
+FFV="ffmpeg-4.1.11"
 ARC="$FFV.tar.gz"
 
 err()
